@@ -99,7 +99,7 @@
             {
                 title: "The Courage to be Disliked",
                 category: "Self-Help",
-                cover: "Book-covers/The courage to be disliked cover.png",
+                cover: "Book-covers/The Courage to be disliked cover.png",
                 pdf: "pdf's/The Courage to be Disliked.pdf"
             },
             {
