@@ -51,7 +51,7 @@
             {
                 title: "Fact Fulness",
                 category: "Self-Help",
-                cover: "book-covers/Fact Fullness.png",
+                cover: "Book-covers/Fact Fullness.png",
                 pdf: "pdf's/Fact Fullness.pdf"
             },
             {
@@ -99,7 +99,7 @@
             {
                 title: "The Courage to be Disliked",
                 category: "Self-Help",
-                cover: "Book-covers/The courage to be disliked Cover.png",
+                cover: "Book-covers/The courage to be disliked cover.png",
                 pdf: "pdf's/The Courage to be Disliked.pdf"
             },
             {
